@@ -42,3 +42,6 @@ Para calcular o fatorial de outro número, basta alterar o valor da variável `n
 numero_escolhido = 7
 ```
 (Altere para o número desejado)
+
+## 👨‍💻 Desenvolvido por:
+- **Isaque Guimarães**
