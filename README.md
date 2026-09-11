@@ -30,9 +30,15 @@ Este programa implementa esse cálculo através da função `calcular`, que rece
 2. Execute o programa diretamente pelo terminal:
    ```bash
    python calculo_fatorial.py
-💻 Saída Esperada
-O fatorial de 5 é: 120
+💻 Saída Esperada:
+   ```bash
+   O fatorial de 5 é: 120
+   ```
 
 ## ⚙️ Personalizando
-Para calcular o fatorial de outro número, basta alterar o valor da variável numero_escolhido no bloco principal do arquivo:
-numero_escolhido = 7  # Altere para o número desejado
+
+Para calcular o fatorial de outro número, basta alterar o valor da variável `numero_escolhido` no bloco principal do arquivo:
+```bash
+numero_escolhido = 7
+```
+(Altere para o número desejado)
